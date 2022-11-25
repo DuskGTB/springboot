@@ -1,0 +1,4 @@
+com\springapi\models\jeux.class
+com\springapi\controllers\jeuxcontroller.class
+com\springapi\demo\DemoApplication.class
+com\springapi\jeuxServiceStub\jeuxServiceStub.class
